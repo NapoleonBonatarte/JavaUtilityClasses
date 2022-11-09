@@ -1,5 +1,6 @@
 /*
  * this class creates a linked list
+ * NOTE: Only accepts Integers
  */
 public class LinkedList{
 	
